@@ -1,0 +1,11 @@
+{
+  "name": "Life OS",
+  "short_name": "Life OS",
+  "lang": "kk",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F7",
+  "theme_color": "#FFF9F7",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

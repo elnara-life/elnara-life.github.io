@@ -1,0 +1,1 @@
+function e(e){window.location.hash=e}export{e as t};
